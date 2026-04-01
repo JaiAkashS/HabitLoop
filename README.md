@@ -2,9 +2,13 @@
 
 HabitLoop is a cross-platform habit tracking mobile app built with React Native and Expo.
 
+## Screenshot
+
+![HabitLoop Habits Screen](assets/images/habit-screenshot.png)
+
 ## Features
 
-- Full local persistence with AsyncStorage.
+- Full local persistence with Expo FileSystem (no native module compilation needed).
 - Habit CRUD support:
    - Create habits.
    - Read and display saved habits.
@@ -20,9 +24,7 @@ HabitLoop is a cross-platform habit tracking mobile app built with React Native 
 ## Tech Stack
 
 - Expo + React Native
-- Expo Router
 - JavaScript
-- AsyncStorage
 - react-native-chart-kit + react-native-svg
 
 ## Run Locally

@@ -4,7 +4,7 @@ HabitLoop is a cross-platform habit tracking mobile app built with React Native 
 
 ## Screenshot
 
-![HabitLoop Habits Screen](assets/images/habit-screenshot.png)
+![HabitLoop Habits Screen](habit-screenshot.jpeg)
 
 ## Features
 
